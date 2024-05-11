@@ -25,3 +25,4 @@ There's a double rainbow 🌈 ! 😱 Is this real?<|eot_id|><|start_header_id|>a
 Double rainbows are formed when sunlight is reflected twice within a raindrop with the violet light that reaches the observer's eye coming from the higher raindrops and the red light from lower raindrops.
 This means the sequence of colours is inverted compared to the primary rainbow, with the secondary bow appearing about 10 degrees above the primary bow.<|eot_id|>
 ```
+(from [https://docs.together.ai/docs/fine-tuning-task-specific-sequences](https://docs.together.ai/docs/fine-tuning-task-specific-sequences))
